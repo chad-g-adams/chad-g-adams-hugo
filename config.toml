@@ -1,0 +1,21 @@
+BaseUrl= "http://chad-g-adams.github.io/"
+LanguageCode= "en-US"
+Title= "Chad Adams"
+paginate = 5
+DisqusShortname = "Chad Adams"
+Copyright = "All rights reserved - 2016"
+canonifyurls = true
+
+[params]
+  description = "my site"
+  cover = "images/cover.jpg"
+  author = "Chad Adams"
+  authorlocation = "Canada"
+  authorwebsite = "https://chad-g-adams.github.io"
+  bio= ""
+  logo = "images/phoenix_world.png"
+  googleAnalyticsUserID = ""
+  githubName = "chad-g-adams"
+  twitterName = "chizzadwick"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = true

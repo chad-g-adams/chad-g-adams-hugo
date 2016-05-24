@@ -16,7 +16,7 @@ paginate = 5
 	tag = "tags"
 
 [params]
-    taxonomyItemsToLabel = ["categories", "tags" ]
+
     # If false display full article contents in blog index.
     # Otherwise show description and 'read on' link to individual blog post page.
     # Default (if omitted) is true.
@@ -49,6 +49,11 @@ paginate = 5
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Blog".
     home = "Home"
+
+    # Links will be generated for these taxonomies
+    # Use to add links for categories, tags, etc.
+    # Example: [ "categories", "tags" ]
+    taxonomyItemsToLink = [ "categories", "tags" ]
 
     # Metadata used to drive integrations.
     #googleAnalytics = "Your Google Analytics tracking code"

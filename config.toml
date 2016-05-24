@@ -1,21 +1,70 @@
-BaseUrl= "http://chad-g-adams.github.io/"
-LanguageCode= "en-US"
-Title= "Chad Adams"
+baseUrl= "http://chad-g-adams.github.io/"
+languageCode= "en-US"
+title= "Chad Adams"
+Copyright = "Chad Adams"
+theme = "hyde-x"
 paginate = 5
-DisqusShortname = "Chad Adams"
-Copyright = "All rights reserved - 2016"
-canonifyurls = true
+
+[Author]
+	name = "Chad Adams"
+
+[permalinks]
+	post = "/blog/:year/:month/:day/:title/"
+
+[taxonomies]
+	category = "categories"
+	tag = "tags"
 
 [params]
-  description = "my site"
-  cover = "images/cover.jpg"
-  author = "Chad Adams"
-  authorlocation = "Canada"
-  authorwebsite = "https://chad-g-adams.github.io"
-  bio= ""
-  logo = "images/phoenix_world.png"
-  googleAnalyticsUserID = ""
-  githubName = "chad-g-adams"
-  twitterName = "chizzadwick"
-  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = true
+    taxonomyItemsToLabel = ["categories", "tags" ]
+    # If false display full article contents in blog index.
+    # Otherwise show description and 'read on' link to individual blog post page.
+    # Default (if omitted) is true.
+    truncate = true
+
+    # Used when a given page doesn't set its own.
+    defaultDescription = "Chad Adams"
+    defaultKeywords = "code"
+
+    # Hide estimated reading time for posts.
+    # Default (if omitted) is false.
+    hideReadingTime = false
+
+    # Changes sidebar background and link/accent colours.
+    # See below for more colour options.
+    # This also works: "theme-base-08 layout-reverse", or just "layout-reverse".
+    theme = "theme-base-0d"
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "default"
+
+    # Optional additional custom CSS file URL, will override other styles.
+    customCSS = ""
+
+    # Displays under the author name in the sidebar, keep it short.
+    # You can use markdown here.
+    tagline = "Your favourite quote or soundbite."
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Blog".
+    home = "Home"
+
+    # Metadata used to drive integrations.
+    #googleAnalytics = "Your Google Analytics tracking code"
+    #gravatarHash = "MD5 hash of your Gravatar email address"
+
+    # Sidebar social links, these must be full URLs.
+    #bitbucket = ""
+    #stackOverflow = ""
+    #linkedin = ""
+    #googleplus = ""
+    #facebook = ""
+    #youtube = ""
+	twitter = "https://twitter.com/chizzadwick"
+	github = "https://github.com/chad-g-adams"
+
+    # Other social-like sidebar links
+    rss = false  # switch to true to enable RSS icon link
+    flattr = ""  # populate with your flattr uid
+

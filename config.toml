@@ -10,6 +10,7 @@ paginate = 5
 
 [permalinks]
 	post = "/blog/:year/:month/:day/:title/"
+	code = "/code/:year/:month/:day/:title/"
 
 [taxonomies]
 	category = "categories"
@@ -33,27 +34,27 @@ paginate = 5
     # Changes sidebar background and link/accent colours.
     # See below for more colour options.
     # This also works: "theme-base-08 layout-reverse", or just "layout-reverse".
-    theme = "theme-base-0d"
+    theme = "theme-chad"
 
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
     highlight = "default"
 
     # Optional additional custom CSS file URL, will override other styles.
-    customCSS = ""
+    customCSS = "http://chad-g-adams.github.io/css/chad.css"
 
     # Displays under the author name in the sidebar, keep it short.
     # You can use markdown here.
-    tagline = "Your favourite quote or soundbite."
+    tagline = "Welcome"
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Blog".
-    home = "Home"
+    home = ""
 
     # Links will be generated for these taxonomies
     # Use to add links for categories, tags, etc.
     # Example: [ "categories", "tags" ]
-    taxonomyItemsToLink = [ "categories", "tags" ]
+    taxonomyItemsToLink = [ "tags" ]
 
     # Metadata used to drive integrations.
     #googleAnalytics = "Your Google Analytics tracking code"
@@ -66,10 +67,21 @@ paginate = 5
     #googleplus = ""
     #facebook = ""
     #youtube = ""
-	twitter = "https://twitter.com/chizzadwick"
-	github = "https://github.com/chad-g-adams"
+    twitter = "https://twitter.com/chizzadwick"
+    github = "https://github.com/chad-g-adams"
 
     # Other social-like sidebar links
-    rss = false  # switch to true to enable RSS icon link
-    flattr = ""  # populate with your flattr uid
+    rss = true # switch to true to enable RSS icon link
+    #flattr = ""  # populate with your flattr uid
 
+[[menu.main]]
+    name = " My Blog"
+    pre = "<i class='fa fa-book'></i>"
+    weight = -110
+    identifier = "blog"
+    url = "/"
+[[menu.main]]
+    name = " Coding Adventures"
+    pre = "<i class='fa fa-keyboard-o'></i>"
+    weight = -100
+    url = "/categories/code/"

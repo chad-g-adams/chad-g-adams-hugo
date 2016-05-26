@@ -1,0 +1,38 @@
+
+.theme-chad .sidebar {
+  background-color: #300030;
+}
+
+.theme-chad .label {
+  background-color: #300030;
+}
+
+.theme-chad .content .post-title a {
+  color: #300030;
+}
+
+.theme-chad .pagination > li > a,
+.theme-chad .pagination > li > span {
+  color: #300030;
+}
+
+.theme-chad .pagination > .active > a,
+.theme-chad .pagination > .active > span,
+.theme-chad .pagination > .active > a:hover,
+.theme-chad .pagination > .active > span:hover,
+.theme-chad .pagination > .active > a:focus,
+.theme-chad .pagination > .active > span:focus {
+  background-color: #300030;
+  border-color: #300030;
+}
+
+.theme-chad .pagination > .disabled > span,
+.theme-chad .pagination > .disabled > span:hover,
+.theme-chad .pagination > .disabled > span:focus,
+.theme-chad .pagination > .disabled > a,
+.theme-chad .pagination > .disabled > a:hover,
+.theme-chad .pagination > .disabled > a:focus {
+  color: #777;
+  background-color: #fff;
+  border-color: #ddd;
+}

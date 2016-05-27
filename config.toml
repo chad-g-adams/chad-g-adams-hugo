@@ -4,6 +4,7 @@ title= "Chad Adams"
 Copyright = "Chad Adams"
 theme = "hyde-x"
 paginate = 5
+disqusShortname = "chad-g-adams"
 
 [Author]
 	name = "Chad Adams"
@@ -44,7 +45,7 @@ paginate = 5
 
     # Displays under the author name in the sidebar, keep it short.
     # You can use markdown here.
-    tagline = "Welcome"
+    tagline = "Welcome to my site!"
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Blog".

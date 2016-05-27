@@ -9,8 +9,7 @@ paginate = 5
 	name = "Chad Adams"
 
 [permalinks]
-	post = "/blog/:year/:month/:day/:title/"
-	code = "/code/:year/:month/:day/:title/"
+	post = "/post/:year/:month/:day/:title/"
 
 [taxonomies]
 	category = "categories"

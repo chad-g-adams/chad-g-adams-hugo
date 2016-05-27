@@ -8,8 +8,15 @@ title = "Getting Started With Hugo"
 
 +++
 
+[Hugo]: http://hugo.spf13.com/
+[GitHub Pages]: https://pages.github.com/
+[good tutorials]: https://gohugo.io/overview/quickstart/
+[Markdown]: http://daringfireball.net/projects/markdown/basics
+[hyde-x]: https://github.com/zyro/hyde-x
+[my next post]: {{< ref "hosting-a-hugo-site-with-github-pages.md" >}}
+
 # Overview
-Setting up a website these days can be done at no cost other than a bit of time. I thought it would be interesting to spend a weekend playing around with some of the available tools. This article covers how I set up my site, using [Hugo](http://hugo.spf13.com/) to generate my content, and [GitHub Pages](https://pages.github.com/) to host.
+Setting up a website these days can be done at no cost other than a bit of time. I thought it would be interesting to spend a weekend playing around with some of the available tools. This article covers how I set up my site, using [Hugo] to generate my content, and [GitHub Pages] to host.
 
 # Hugo
 For simple sites, such as blogs, there are good reasons to prefer static site generators:
@@ -18,12 +25,12 @@ For simple sites, such as blogs, there are good reasons to prefer static site ge
 * **Performance**: the site will load quickly and be responsive
 * **Offline editing**: I can continue to create content when I'm offline, although that is becoming less and less of an issue these days 
 
-[Hugo](http://hugo.spf13.com/) is a static site generator written in Go. I chose Hugo because it was open source with an active community, and because I also have an interest in learning the Go language (not that you need worry about that when building your website with Hugo).
+[Hugo] is a static site generator written in Go. I chose Hugo because it was open source with an active community, and because I also have an interest in learning the Go language (not that you need worry about that when building your website with Hugo).
 
 
 # Hugo Workflow
 
-Using Hugo was an absolute pleasure. There are [good tutorials](https://gohugo.io/overview/quickstart/) on Hugo available, so I will just cover some of the highlights here to demonstrate how easy it is.
+Using Hugo was an absolute pleasure. There are [good tutorials] on Hugo available, so I will just cover some of the highlights here to demonstrate how easy it is.
 
 ## Creating a new site
 One simple command will create you a new site 
@@ -42,13 +49,13 @@ The post file `my-post-name.md` appears in the `mySiteName/content/post/` direct
 The basic premise of Hugo is that your content is organized in a specific way on purpose. Hence the filesystem organization of your content matches the URL at which it is hosted. For example content file at `content/foo/bar/myFirstPost.md` will be hosted at `<site>/foo/bar/myFirstPost` (By default - however that is fully configurable).
 
 ## Editing content
-Post content is generally a plain text file (which means I am writing everything in vim, hooray!). Hugo has native support for [Markdown](http://daringfireball.net/projects/markdown/basics) language. 
+Post content is generally a plain text file (which means I am writing everything in vim, hooray!). Hugo has native support for [Markdown] language. 
 
 Every content file begins with a section of metadata that allows you to specify information about the content, like the title, date, tags, or any arbitrary data you would use to classify your content.
 
 ## Pick a Theme
 
-Next you pick a theme for your site. I used **[hyde-x](https://github.com/zyro/hyde-x)**, with a few tweaks (more to come on that in a later post).
+Next you pick a theme for your site. I used **[hyde-x]**, with a few tweaks (more to come on that in a later post).
 
 ## Preview Your Site
 
@@ -68,7 +75,7 @@ Once you're satisfied with your site, it's time to publish. Running the command
 
 	hugo
 
-Generates a folder `public/` with all the static HTML, CSS, etc needed for your site.  That folder can then be dropped onto a web server, or hosted by an external service (such as GitHub Pages - I will be going into that in my next post).
+Generates a folder `public/` with all the static HTML, CSS, etc needed for your site.  That folder can then be dropped onto a web server, or hosted by an external service (such as GitHub Pages - I will be going into that in [my next post]).
 
 # My Hugo Content 
 

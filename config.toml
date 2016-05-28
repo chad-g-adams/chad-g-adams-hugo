@@ -45,7 +45,7 @@ disqusShortname = "chad-g-adams"
 
     # Displays under the author name in the sidebar, keep it short.
     # You can use markdown here.
-    tagline = "Welcome to my site!"
+    tagline = "Welcome to my new site!"
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Blog".

@@ -23,7 +23,7 @@ At some point you might want to tweak your website in a way that is not directly
 
 Fortunately Hugo has a general convention for [overriding themes][Hugo Customizing]. Hugo lets you supplement or override any template or static file (which includes stuff like CSS, etc). Hence when you customize a theme, you don't edit the theme's files directly. Rather, you supply your own versions of those files, which then take precendence over that of the theme.
 
-One simple example is for the favicon. I simply dropped my custom icon into 
+One simple example is the favicon. I simply dropped my custom icon into 
 
 	static/favicon.png
 

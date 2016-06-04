@@ -3,7 +3,7 @@ categories = ["code"]
 tags = ["hugo", "blog"]
 date = "2016-05-29T15:46:05-04:00"
 description = ""
-keywords = ["hugo", "customization", "theme"]
+keywords = ["hugo", "customization", "theme", "tutorial" ]
 title = "Customizing Hugo Themes"
 
 +++

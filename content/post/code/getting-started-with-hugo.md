@@ -3,7 +3,7 @@ tags = ["hugo", "blog" ]
 categories = [ "code" ]
 date = "2016-05-24T09:27:14-04:00"
 description = "Getting Started With Hugo, a static site generator"
-keywords = ["hugo", "blog", "static site", "github pages", "github", "hyde-x"]
+keywords = ["hugo", "tutorial", "blog", "static site", "github pages", "github", "hyde-x"]
 title = "Getting Started With Hugo"
 
 +++

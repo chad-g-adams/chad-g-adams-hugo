@@ -1,6 +1,6 @@
 +++
 categories = [ "code" ]
-tags = [ "github pages", "hugo", "blog" ]
+tags = [ "github pages", "hugo", "tutorial", "blog" ]
 date = "2016-05-26T11:57:11-04:00"
 description = "Hosting a Hugo site on GitHub Pages"
 keywords = []

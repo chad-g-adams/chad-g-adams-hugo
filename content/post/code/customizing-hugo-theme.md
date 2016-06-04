@@ -12,6 +12,7 @@ title = "Customizing Hugo Themes"
 [earlier post]: {{< ref "getting-started-with-hugo.md" >}}
 [Hugo Themes]: http://themes.gohugo.io/
 [Hugo Customizing]: https://gohugo.io/themes/customizing/
+[next post]: {{< ref "hugo-templates.md" >}}
 
 [Hugo] has a straight forward yet powerful strategy for theming websites. 
 

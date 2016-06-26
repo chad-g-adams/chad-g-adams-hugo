@@ -7,7 +7,7 @@ rm -r public/*
 hugo
 
 # generate CNAME file for custom domain name
-echo 'www.cadams.ca' > public/CNAME
+echo 'cadams.ca' > public/CNAME
 
 # commit and push the new content
 cd public

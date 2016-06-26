@@ -41,7 +41,7 @@ disqusShortname = "chad-g-adams"
     highlight = "default"
 
     # Optional additional custom CSS file URL, will override other styles.
-    customCSS = "http://chad-g-adams.github.io/css/chad.css"
+    customCSS = "http://cadams.ca/css/chad.css"
 
     # Displays under the author name in the sidebar, keep it short.
     # You can use markdown here.

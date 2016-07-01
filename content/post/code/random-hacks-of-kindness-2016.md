@@ -9,7 +9,7 @@ title = "Random Hacks of Kindness 2016"
 +++
 [Random Hacks of Kindness]: http://rhok.ca/
 [CISED]: http://www.cised.ca/
-This past weekend I participated in a hackathon for [Random Hacks of Kindness] where the goal is to help support community organizations with tech solutions.
+This past weekend I participated in a hackathon for [Random Hacks of Kindness] where the goal is to support community organizations with tech solutions.
 
 I joined the project for the Centre for Social Enterprise Development ([CISED]). A *social enterprise* is a venture whose purpose is to achieve a social mission. There are about 150 social enterprises in Ottawa, which includes ventures such as:
 
@@ -18,7 +18,7 @@ I joined the project for the Centre for Social Enterprise Development ([CISED]).
 * Good Nature Groundskeeping:  provides professional landscape maintenance services while also providing employment to people who are economically disadvantaged
 * etc.
 
-The challenge for CISED is to grow the social enterprise sector. While there is increasing awarness about social enterpries and a willingness on the purchasing side to procure their services, currently the main challenges are the lack of awareness of what services are available (for example I had only heard of about 3 of the 150 companies myself), and the ability to connect the buyers with the sellers.
+The challenge for CISED is to grow the social enterprise sector. While there is increasing awareness about social enterprises and a willingness on the purchasing side to procure their services, currently the main challenges are the lack of awareness of what services are available (for example I had only heard of about 3 of the 150 companies myself), and the ability to connect the buyers with the sellers.
 
 The hackathon began with an energizing discussion with the stakeholders from CISED about how to connect purchasers and suppliers in an online marketplace. We went into details such as the three main types of purchasers involved:
 
@@ -26,7 +26,7 @@ The hackathon began with an energizing discussion with the stakeholders from CIS
 * Small to medium independent business owners (perhaps looking to reinforce their brands or support the community)
 * The general public (people like you and me who would like to have their snow cleared all the while knowing the proceeds will support people in need in the community)
 
-While CISED felt that the large procurers would be the most important clients to focus on as it would be the best shot at growing the social enterprise sector, the use cases involved with these purchasers were rather complex, such as dealing with scenarios where demand outstrips supply. Since social enterprises often have limited resources, if an order came in from a big client, such as a catering order, it might require two different catering companies to satisfy. It would be rather involved to support this kind of order on an online system, but could perhaps be achieved by allowing buyers to post RFPs or a similar concept (kind of like wanted adds on kijiji). 
+While CISED felt that the large procurers would be the most important clients to focus on as it would be the best shot at growing the social enterprise sector, the use cases involved with these purchasers were rather complex, such as dealing with scenarios where demand outstrips supply. Since social enterprises often have limited resources, if an order came in from a big client, such as a catering order, it might require two different catering companies to satisfy. It would be rather involved to support this kind of order on an online system, but could perhaps be achieved by allowing buyers to post RFPs or a similar concept (kind of like wanted ads on kijiji). 
 
 At the end of the day, we knew we could not build an online marketplace in 24 hours. However, there was something we could do to further the cause for all types of purchasers: build an online directory of social enterprises in Ottawa. This would satisfy an immediate need, as CISED often gets asked about what services are on offer, and currently this info is only available in a spreadsheet.
 

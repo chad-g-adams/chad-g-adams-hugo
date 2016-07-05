@@ -21,7 +21,7 @@ title = "Book Review: What Does It Mean To Be Human"
 (Although you could be forgiven for mistaking one!)
 ![Humans](/images/humans.jpg)
 
-While the book covers many topics on the history of our species, I'll focus in particular on the three items that I found most fascinating:
+While the book covers many topics on the history of our species, I'll focus on three of the items that I found most fascinating:
 
 **1. Eating meat was a factor in our advanced intelligence**
 
@@ -37,27 +37,27 @@ One important aspect of our ancestry is that we became heavy meat eaters. Stone 
 
 It's not that eating meat caused our brains to grow, but rather as other stresses pushed us toward a need for greater intelligence, meat gave us the means to evolve our bodies in this direction. 
 
-While meat now is classified a [probable carcinogen], and limited consumption is suggested for both health and [environmental] reasons, it was nevertheless a key factor in getting us where we are today.
+While meat is now classified a [probable carcinogen], and limited consumption is suggested for both health and [environmental] reasons, it was nevertheless a key factor in getting us where we are today.
 
 ## Climate Change Made Us Human
 
 Humans developed in one of the most geologically volatile eras of the Earth. Wild fluctuations from cold to hot, wet to dry, and back meant that survival was always dependent on being adaptable. In the last 100,000 years for example the Earth went from hippos living in England to permafrost covering almost all of Europe. Even the cold-hardened Neanderthals had to retreat all the way down to Gibraltar.
 
-These fluctuations in climate led us to evolve into who we are today. The ability to stand upright gave us the opportunity to travel long distances efficiently, allowing us to move with, and according, to the changing environment. The stresses of continuous climate change led to advances in imagination, planning, symbols and memory as our mental and social tools evolved to better respond to change and uncertainty.
+These fluctuations in climate led us to where we are today. The ability to stand upright gave us the opportunity to travel long distances efficiently, allowing us to move with, and according, to the changing environment. The stresses of continuous climate change led to advances in imagination, planning, symbols and memory as our mental and social tools evolved to better respond to change and uncertainty.
 
 > "A species that does a lot of things well retains more options when its surroundings change."
  
 In other words, our species **optimized itself for change**.
 
-Just as for our ancestors, climate change continues to be a hot topic for us today, this time through our own actions. Fittingly, solving today's problem will require us to attain a new level of humanity; large-scale co-operation is now required on a global scale. Just as before, the challenges we face will define who we become as a species. 
+Just as for our ancestors, climate change continues to be a hot topic for us today, this time through our own actions. Fittingly, solving today's problem will require us to attain a new level of humanity - large-scale co-operation is now required on a global scale. Just as before, the challenges we face define who we will become as a species. 
 
 ## We Almost Didn't Make It
 
-*Homo sapiens* are but one species in a large human family tree. Most branches led to evolutionary dead ends, including 20+ other hominid species.
+*Homo sapiens* is but one species in a large human family tree. Most branches led to evolutionary dead ends, including 20+ other hominid species.
 
 > Our closest evolutionary cousins - species that also walked upright, made tools, and had large brains - went extinct, even though these basic characteristics were at one time considered to be the hallmarks of evolutionary success in human beings
 
-I sorely wish that at least *one* other cousin species in the *Homo* group had survived to the present day. Most of us have likely heard about the existence of other human species (such as Neanderthals), along with the fact we actually share DNA with our cousin species (my immediate family is 2.1% Neanderthal for example, roughly average for those of non-African ethnicity). Yet these links do not feel as immediate as they might if there were a living breathing community sharing the Earth with us. Imagine the new perspective this would inform, about our place in the universe! 
+I sorely wish that at least *one* other species in the *Homo* group had survived to the present day. Most of us have likely heard about the existence of other human species (such as Neanderthals), along with the fact we actually share DNA with our cousin species (my immediate family is 2.1% Neanderthal for example, roughly average for those of non-African ethnicity). Yet these links do not feel as immediate as they might if there were a living breathing community sharing the Earth with us. Imagine the new perspective this would inform, about our place in the universe! 
 
 *(Or not - on the other hand I shudder to think how we would have treated our cousin species, given how poorly we behave to members of our own species who are merely different.)*
 

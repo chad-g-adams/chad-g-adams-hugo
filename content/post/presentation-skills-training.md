@@ -8,11 +8,11 @@ title = "Presentation Skills Training"
 
 +++
 
-I recently completed a two-day training course on presentation skills. While I have been known to give a killer presentation (or speech) in my time, doing so takes *a lot* of preparation on my end and it's never as natural as I would like. By taking this course, my intention was to hone my skills, practice a little more, and discover some new tips and tricks. Here are the main takeaways for me...
+I recently completed a two-day training course on presentation skills. While I have been known to give a killer presentation (or speech) in my time, doing so takes *a lot* of preparation on my end and it's never as natural as I would like. By taking this course, my goal was to hone my skills, practice a little more, and discover some new tips and tricks. Here are the main takeaways for me...
 
 We live in a world of partial attention, so we **cannot assume that our audience is engaged with us**. The presenter is competing for the audience's attention with many other available sources of information (email, phones, etc).
 
-In order to compete with that the key is to give a **simple, authentic and meaningful** experience to the audience.
+In order to compete with that, the key is to give a **simple, authentic and meaningful** experience to the audience.
 
 Five principles can help us carry out this mission:
 
@@ -27,7 +27,7 @@ Five principles can help us carry out this mission:
 ## Goal based presentations
 First off, decide what the goal of your presentation will be. Sounds obvious? Yet it's fairly typical for me to jump straight into some random details in the middle of the presentation and start building up my slides from there without really knowing where I ultimately want the presentation to go.
 
-I think that has partly to do with the fear not wanting to lose the creative juices in the moment.. but creating anything that way can lead all over the map unless you manage to stay focused. Think about how many slides you throw out in the end because they are not relevant, don't help support the main message, or else get cut due to time constraints for the presentation. That's a lot of wasted time!
+I think partly that has to do with the fear not wanting to lose the creative juices in the moment.. but creating anything that way can lead all over the map unless you manage to stay focused. Think about how many slides you throw out in the end because they are not relevant, don't help support the main message, or else get cut due to time constraints for the presentation. That's a lot of wasted time!
 
 Instead think about building scalable presentations:
 
@@ -37,7 +37,7 @@ Instead think about building scalable presentations:
 * 45 minute
 
 Start small because that will force you to focus on the main message only. Then build out the details around it to fill in the time.
-As a bonus, by creating your presentations this way, you'll be able to better adapt to being given less/more time on the day of the presentation, and also be ready to give the same presentation again in a different format should the need arise.
+As a bonus, by creating your presentations this way, you'll be able to better adapt to being given less/more time on the day of the presentation, while also being ready to give the same presentation again in a different format should the need arise.
 
 ## Know the audience
 Know your audience! Can you find out any more about them and what they want before the presentation? This has burned me before by making wrong assumptions about what level of knowledge the audience was starting from. A simple question could have clarified that.

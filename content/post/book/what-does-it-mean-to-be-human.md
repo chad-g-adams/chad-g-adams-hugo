@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["book"]
 tags = ["humans", "book"]
 date = "2016-06-29T19:49:20-04:00"
 description = ""
@@ -15,7 +15,7 @@ title = "Book Review: What Does It Mean To Be Human"
 
 ![What Does It Mean to Be Human](/images/whatDoesItMeanToBeHuman.jpg)
 
-*[What Does it Mean to be Human]* is the companion book for the Smithsonian Natural History Museum's [Human Origins] initiative. The book takes the reader on a breathtaking journey through our ancient past to explain when and how we acquired the traits we most closely associate with modern humans. 
+*[What Does it Mean to be Human]* is the companion book for the Smithsonian Natural History Museum's [Human Origins] initiative. The book takes the reader on a breathtaking journey through our ancient past to explain when and how we acquired the traits we most closely associate with modern humans.
 
 ## All of these are human, but not *Homo sapiens*
 (Although you could be forgiven for mistaking one!)
@@ -29,13 +29,13 @@ While the book covers many topics on the history of our species, I'll focus on t
 
 **3. We almost didn't make it**
 
-## Meat Fuels Our Brains 
+## Meat Fuels Our Brains
 
-One important aspect of our ancestry is that we became heavy meat eaters. Stone tools (used for over a million years) let us hunt and carve up bigger game. As our meat consumption increased, our digestive system evolved and shortened in order to rapidly extract nutrients from meat, as opposed to taking days to digest plants as they pass through a long intestine. This reduction in gut size allowed humans to divert precious energy to other organs in the body, such as the brain, which today uses as much as 25% of our total energy. 
+One important aspect of our ancestry is that we became heavy meat eaters. Stone tools (used for over a million years) let us hunt and carve up bigger game. As our meat consumption increased, our digestive system evolved and shortened in order to rapidly extract nutrients from meat, as opposed to taking days to digest plants as they pass through a long intestine. This reduction in gut size allowed humans to divert precious energy to other organs in the body, such as the brain, which today uses as much as 25% of our total energy.
 
 > "The dietary shift toward meat and the reduction in gut size are likely to have proved crucial in fueling the evolution of an enlarged brain."
 
-It's not that eating meat caused our brains to grow, but rather as other stresses pushed us toward a need for greater intelligence, meat gave us the means to evolve our bodies in this direction. 
+It's not that eating meat caused our brains to grow, but rather as other stresses pushed us toward a need for greater intelligence, meat gave us the means to evolve our bodies in this direction.
 
 While meat is now classified a [probable carcinogen], and limited consumption is suggested for both health and [environmental] reasons, it was nevertheless a key factor in getting us where we are today.
 
@@ -46,10 +46,10 @@ Humans developed in one of the most geologically volatile eras of the Earth. Wil
 These fluctuations in climate led us to where we are today. The ability to stand upright gave us the opportunity to travel long distances efficiently, allowing us to move with, and according, to the changing environment. The stresses of continuous climate change led to advances in imagination, planning, symbols and memory as our mental and social tools evolved to better respond to change and uncertainty.
 
 > "A species that does a lot of things well retains more options when its surroundings change."
- 
+
 In other words, our species **optimized itself for change**.
 
-Just as for our ancestors, climate change continues to be a hot topic for us today, this time through our own actions. Fittingly, solving today's problem will require us to attain a new level of humanity - large-scale co-operation is now required on a global scale. Just as before, the challenges we face define who we will become as a species. 
+Just as for our ancestors, climate change continues to be a hot topic for us today, this time through our own actions. Fittingly, solving today's problem will require us to attain a new level of humanity - large-scale co-operation is now required on a global scale. Just as before, the challenges we face define who we will become as a species.
 
 ## We Almost Didn't Make It
 
@@ -57,7 +57,7 @@ Just as for our ancestors, climate change continues to be a hot topic for us tod
 
 > Our closest evolutionary cousins - species that also walked upright, made tools, and had large brains - went extinct, even though these basic characteristics were at one time considered to be the hallmarks of evolutionary success in human beings
 
-I sorely wish that at least *one* other species in the *Homo* group had survived to the present day. Most of us have likely heard about the existence of other human species (such as Neanderthals), along with the fact we actually share DNA with our cousin species (my immediate family is 2.1% Neanderthal for example, roughly average for those of non-African ethnicity). Yet these links do not feel as immediate as they might if there were a living breathing community sharing the Earth with us. Imagine the new perspective this would inform, about our place in the universe! 
+I sorely wish that at least *one* other species in the *Homo* group had survived to the present day. Most of us have likely heard about the existence of other human species (such as Neanderthals), along with the fact we actually share DNA with our cousin species (my immediate family is 2.1% Neanderthal for example, roughly average for those of non-African ethnicity). Yet these links do not feel as immediate as they might if there were a living breathing community sharing the Earth with us. Imagine the new perspective this would inform, about our place in the universe!
 
 *(Or not - on the other hand I shudder to think how we would have treated our cousin species, given how poorly we behave to members of our own species who are merely different.)*
 

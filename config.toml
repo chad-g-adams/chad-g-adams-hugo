@@ -3,7 +3,7 @@ languageCode= "en-US"
 title= "Chad Adams"
 Copyright = "Chad Adams"
 theme = "hyde-x"
-paginate = 5
+paginate = 10
 disqusShortname = "chad-g-adams"
 
 [Author]
@@ -76,12 +76,17 @@ disqusShortname = "chad-g-adams"
 
 [[menu.main]]
     name = " My Blog"
-    pre = "<i class='fa fa-book'></i>"
+    pre = "<i class='fa fa-rss'></i>"
     weight = -110
     identifier = "blog"
     url = "/"
 [[menu.main]]
     name = " Coding Adventures"
     pre = "<i class='fa fa-keyboard-o'></i>"
-    weight = -100
+    weight = -105
     url = "/categories/code/"
+[[menu.main]]
+    name = " Book Time!"
+    pre = "<i class='fa fa-book'></i>"
+    weight = -100
+    url = "/categories/book/"

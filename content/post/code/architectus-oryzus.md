@@ -7,7 +7,7 @@ keywords = [ "architecture", "architect" ]
 title = "Architectus Oryzus"
 
 +++
-Martin Fowler wrote [an article](http://www.in-gmbh.eu/uploads/media/whoNeedsArchitect.pdf) on software architecture almost 15 years ago. I just discovered it now while in the midst of changing jobs, and I found this part where he contrasts architect styles very relevant for me in this moment:
+Martin Fowler wrote [an article](http://www.in-gmbh.eu/uploads/media/whoNeedsArchitect.pdf) on software architecture almost 15 years ago. I just discovered it now while in the midst of changing jobs, and I found this part where he contrasts architect styles to be very relevant for me in this moment:
 
 >*Architectus Reloadus* is the person who makes all the important decisions. The architect does this because a single mind is needed to ensure a system’s conceptual integrity,  and perhaps because the architect doesn’t think that the team members are sufficiently skilled to make those decisions. Often, such decisions must be made early on so that everyone else has a plan to follow.
 >
@@ -19,7 +19,7 @@ Martin Fowler wrote [an article](http://www.in-gmbh.eu/uploads/media/whoNeedsArc
 
 I think that summarizes very well the role I played for my previous company. Without the benefit of the article's description, I intuitively approached architecture in this way. It's always been clear to me that collaboration is the key to a better product. That means always looking for feedback on designs (earlier the better), and being open to better ideas (often bubbling from the bottom up, sometimes from unexpected places). Raising the level of the development team is crucial, to both increase the pool of critical thinkers available for each problem (huge win), while also reducing the incidence of "misguided" code submissions (which can become dangerous precedents for future development if left unchecked). There is so much opportunity to learn in both directions.
 
-Ultimately, looking back on my experience now, if I can be critical in one area, it's that I probably got a bit too involved with the teams at times, leading to over-reliance. I'm thinking in particular of the moments when I was overseeing three scrum teams. Teams came to rely on me to do reviews, especially code reviews. Even after raising their level and mentoring them to the point that they were capable of self-organizing and taking on that role themselves, I did not truly notice anyone rise up to champion the cause*. Partly I think, that's because I was performing that role so consistently. Too consistently perhaps. Hence there may be a lesson here about stepping back when the time is right.
+Ultimately, looking back on my experience now, if I can be critical in one area, it's that I probably got a bit too involved with the teams at times, leading to over-reliance. I'm thinking in particular of the moments when I was overseeing three scrum teams. Teams came to rely on me to do reviews, especially code reviews. Even after raising their level and mentoring them to the point that they were capable of self-organizing and taking on that role themselves, I did not notice anyone rise up to truly champion the cause*. Partly I think, that's because I was performing that role so consistently. Too consistently perhaps. Hence there may be a lesson here about stepping back when the time is right.
 
 *(At least, the team structures never lasted long enough to see if any champions would finally emerge. I do hope they have gone on to be leaders on their future teams).
 

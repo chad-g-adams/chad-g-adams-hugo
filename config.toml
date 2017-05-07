@@ -86,7 +86,7 @@ disqusShortname = "chad-g-adams"
     weight = -105
     url = "/categories/code/"
 [[menu.main]]
-    name = " Book Talk"
+    name = " Books"
     pre = "<i class='fa fa-book'></i>"
     weight = -100
     url = "/categories/book/"

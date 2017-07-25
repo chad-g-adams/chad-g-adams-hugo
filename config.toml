@@ -4,8 +4,8 @@ title= "Chad Adams"
 Copyright = "Chad Adams"
 theme = "hyde-x"
 paginate = 10
-paginatePath = "/blog/page"
 disqusShortname = "chad-g-adams"
+canonifyURLs = true
 
 [Author]
 	name = "Chad Adams"

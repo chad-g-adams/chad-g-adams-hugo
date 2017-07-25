@@ -4,6 +4,7 @@ title= "Chad Adams"
 Copyright = "Chad Adams"
 theme = "hyde-x"
 paginate = 10
+paginatePath = "/blog/page"
 disqusShortname = "chad-g-adams"
 
 [Author]
@@ -41,7 +42,7 @@ disqusShortname = "chad-g-adams"
     highlight = "default"
 
     # Optional additional custom CSS file URL, will override other styles.
-    customCSS = "http://cadams.ca/css/chad.css"
+    customCSS = "http://cadams.ca/blog/css/chad.css"
 
     # Displays under the author name in the sidebar, keep it short.
     # You can use markdown here.

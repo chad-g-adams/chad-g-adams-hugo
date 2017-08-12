@@ -1,19 +1,19 @@
 
 .theme-chad .sidebar {
-  background-color: #300030;
+  background-color: #222;
 }
 
 .theme-chad .label {
-  background-color: #300030;
+  background-color: #222;
 }
 
 .theme-chad .content .post-title a {
-  color: #300030;
+  color: #222;
 }
 
 .theme-chad .pagination > li > a,
 .theme-chad .pagination > li > span {
-  color: #300030;
+  color: #222;
 }
 
 .theme-chad .pagination > .active > a,
@@ -22,8 +22,8 @@
 .theme-chad .pagination > .active > span:hover,
 .theme-chad .pagination > .active > a:focus,
 .theme-chad .pagination > .active > span:focus {
-  background-color: #300030;
-  border-color: #300030;
+  background-color: #222;
+  border-color: #222;
 }
 
 .theme-chad .pagination > .disabled > span,

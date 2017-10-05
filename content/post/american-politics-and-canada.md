@@ -23,7 +23,7 @@ Here's what Canada can do today to avoid a similar eventuality down the road:
   Discussions on electoral reform are [currently underway in Canada](https://www.canada.ca/en/campaign/electoral-reform.html). The trouble is, for incumbent political parties, it's hard to convince themselves to switch the very electoral system that got them into power in the first place. For the long-term benefit of Canada, and for the reasons listed above, I would encourage all Canadians to reflect on the American experience and to consider supporting these changes.
 
 # Increased connectedness
-  People are biologically hard-wired to be afraid of others who are different than them. And yet, diversity is an enormous driver for innovation and adds so much value to life. Getting past the unknown is a fundamental dilemma that everyone has to confront at some point in their life experiences, and it's not always easy! But with more exposure to different people, different ideas, and different places, the fear disappears. That means broad inclusiveness. Large cities intuitively understand the power of diversity. Rural communities (by definition), simply don't have the same opportunity to interact with so many Canadians in the same way. What can we do to address that?
+  People are biologically hard-wired to be afraid of others who are different than them. And yet, diversity is an enormous driver for innovation and adds so much value to life. Getting past the unknown is a fundamental dilemma that everyone has to confront at some point in their life experiences, and it's not always easy! But with more exposure to different people, different ideas, and different places, the fear disappears. That means broad inclusiveness. Large cities intuitively understand the power of diversity. Rural communities simply don't have the same opportunity to interact with so many Canadians in the same way. What can we do to address that?
 
   First, getting high-speed internet to every Canadian is a no-brainer. It won't solve everything but it's a start. Connecting digitally is still better than no connection at all. There's an initiative currently underway for universal broadband that [could use your support](https://openmedia.org/en/we-won-internet-basic-service-all-canadians-0) right now.
 
@@ -38,6 +38,8 @@ Here's what Canada can do today to avoid a similar eventuality down the road:
 
 # Election Holiday
   This is a pretty simple idea that's used already by other countries. When there's a federal election, make it a public holiday. There are current laws that mandate employers to give their employees time off to vote, but that's not good enough. Many people won't request that, especially vulnerable people for whom that job is their lifeline. These are also the same people who can least afford to take the time to visit a voting station. For a more inclusive turnout, and to give everyone a chance to meaningfully reflect on their civic duty, we should give everyone the day off.
+
+  Taking the idea one step further, we could also have a "Voter Registration Day" as the election kicks off, and make that a national holiday as well. I'm sure our economy can survive a couple extra holidays every few years.
 
 
 

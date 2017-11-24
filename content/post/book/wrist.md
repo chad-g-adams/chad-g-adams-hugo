@@ -1,7 +1,7 @@
 +++
 categories = ["book"]
 tags = ["wrist", "book"]
-date = "2017-11-21T13:48:30-05:00"
+date = "2017-11-24T18:48:30-05:00"
 description = ""
 keywords = ["wrist"]
 title = "Book Review: Wrist"

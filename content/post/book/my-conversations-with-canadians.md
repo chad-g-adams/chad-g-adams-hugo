@@ -38,7 +38,7 @@ It's humbling to think of all the things we missed learning about in school. Wha
 > Just as I was raised on story, I brought my children up on story. We work with story. We begin with an old tale and, as we progress through the story, we tell it back different but the same, changing it so it becomes a modern new story.
 
 
-Maracle also makes clear that being nice people doesn't give Canadians a pass; she drives home that we are all actively complicit in the genocide of Turtle Islanders, quoting articles from the Geneva convention to support her case. Ignorance may be bliss for some, but morally that stance just doesn't hold up. We have a responsibility to educate ourselves on affairs that are being conducted in our name. It's time for Canadians to get with it!
+Maracle also makes clear that being nice people doesn't give Canadians a pass; she drives home that we are all actively complicit in the genocide of Turtle Islanders, quoting articles from the UN Genocide Convention to support her case. Ignorance may be bliss for some, but morally that stance just doesn't hold up. We have a responsibility to educate ourselves on affairs that are being conducted in our name. It's time for Canadians to get with it!
 
 To paraphrase a statement in the book: de-colonization is not about how the Indigenous world fits into ours, but how we fit into theirs. With this in mind, I sample from Chapter 12 which describes the Turtle Islander belief system:
 

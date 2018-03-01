@@ -39,3 +39,6 @@ The definition of "*wrist*" is given in a preface to the book, with a secondary 
 This was a unique and very original book with many layers to unpack. I look forward to reading more of Adler's work in the future!
 
 \**Dead Indian* per Thomas King's *The Inconvenient Indian*
+
+
+![Image](/images/wristTwitter.png)

@@ -39,3 +39,6 @@ Another topic raised in the book is the concept of "pz's" as Sawyer called them,
 Overall, I really enjoyed the book although the ending felt a little rushed, and I kept hoping for one final twist that never came.  
 
 One thing I love about Sawyer's novels are the education factor. While you keep turning the pages to see how the story unfolds, there are plenty of interesting ideas and references scattered throughout, bread crumbs to return to later and revisit should you wish.
+
+
+![Image](/images/quantumNightTwitter.png)

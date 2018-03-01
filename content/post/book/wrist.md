@@ -1,6 +1,6 @@
 +++
 categories = ["book"]
-tags = ["wrist", "book"]
+tags = ["wrist", "Indigenous"]
 date = "2017-11-24T18:48:30-05:00"
 description = ""
 keywords = ["wrist"]

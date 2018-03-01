@@ -1,10 +1,10 @@
-baseUrl= "http://cadams.ca/blog"
+baseUrl= "https://cadams.ca/blog"
 languageCode= "en-US"
 title= "Chad Adams"
 Copyright = "Chad Adams"
 theme = "hyde-x"
 paginate = 10
-disqusShortname = "chad-g-adams"
+#disqusShortname = "chad-g-adams"
 canonifyURLs = true
 
 [Author]

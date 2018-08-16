@@ -2,8 +2,8 @@
 categories = ["book"]
 date = "2018-02-26T16:24:01-05:00"
 description = ""
-keywords = ["Indigenous"]
-tags = ["Indigenous"]
+keywords = ["Indigenous", "Conversations", "Maracle"]
+tags = ["Lee Maracle", "book", "Indigenous"]
 title = "Book Review: My Conversations With Canadians"
 
 +++

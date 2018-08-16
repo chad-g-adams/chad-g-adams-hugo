@@ -1,6 +1,6 @@
 +++
 categories = ["book"]
-date = "2018-02-26T16:24:01-05:00"
+date = "2018-08-15T20:24:01-05:00"
 description = ""
 keywords = ["book"]
 tags = ["book"]

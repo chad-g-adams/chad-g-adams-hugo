@@ -3,6 +3,7 @@ categories = ["book"]
 date = "2018-09-03T15:17:37-04:00"
 description = ""
 keywords = ["book"]
+tags = ["book"]
 title = "Book Review: Way of the Peaceful Warrior"
 
 +++

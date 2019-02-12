@@ -19,3 +19,7 @@ If you want to make your passwords available to other devices, you'll need to sh
 The drawback with this approach is it doesn't have cloud sync. I could have hosted my password database in my own cloud if I really wanted to, but actually I've found a simpler way to sync. These days, I always have my phone nearby! Hence the password database on my phone becomes my primary database, and all edits are done in my phone (it's pretty rare that I have to add or change a password anyway). Then periodically about once a month or so, when I normally backup my phone I also transfer my password database over at the same time.
 
 This is a very simple approach to password management, but it meets my needs. I guess you can look at it as a cheap alternative to the pay services out there.
+
+Update: 
+
+Two years later I am still using this system and find it works well for me. One gotcha is at one point my KeePassDroid app on my phone corrupted the password file (software bug that's been fixed, apparently). The file still worked on my phone but I could not unlock the passwords on any other device and I had to rollback to a backup file. So it's important to keep a backup, and also be careful not to overwrite the backup by mistake (everytime I take a backup I put the date in the backup filename like "passwords.May2019.kdbx", this is a good practice to follow).

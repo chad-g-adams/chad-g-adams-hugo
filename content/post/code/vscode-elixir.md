@@ -84,17 +84,32 @@ Set these up as Tasks in your tasks.json as follows:
 You can also create hotkeys to launch your tests. I do it like:
 
 ```
-{
-  "key": "ctrl-s",
-  "command": "workbench.action.tasks.runTask",
-  "args": "mix test"
-},
-{
-  "key": "ctrl+shift+s",
-  "command": "workbench.action.tasks.runTask",
-  "args": "single test",
-  "when": "editorTextFocus"
-}
+[
+   {
+       "key": "ctrl-s",
+       "command": "workbench.action.tasks.runTask",
+       "args": "mix test"
+   },
+
+   {
+       "key": "ctrl+shift+s",
+       "command": "workbench.action.tasks.runTask",
+       "args": "single test",
+       "when": "editorTextFocus"
+   },
+
+   {
+       "key": "ctrl+shift+w",
+       "command": "workbench.action.tasks.runTask",
+       "args": "test current file"
+   },
+
+   {
+       "key": "ctrl+shift+r",
+       "command": "workbench.action.tasks.reRunTask",
+       "when": "editorTextFocus"
+   }
+]
 ```
 
 Now it's super easy to run a single test, or all the tests, on a whim.

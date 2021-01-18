@@ -17,6 +17,7 @@ With the pandemic preventing us from attending cinemas, I "splurged" for the HBO
 * [Joker](https://www.rottentomatoes.com/m/joker_2019) - *excellent movie although I can understand the controversy around it glorifying violence, which is a shame because there was another message in there about mental health patients falling through the cracks due to funding cuts.. and with a few very minor tweaks that could have been the takeaway message*
 * [James vs His Future Self](https://www.rottentomatoes.com/m/james_vs_his_future_self) - *nerdy, Canadian.. yep I'm here for this!*
 * [Giant Little Ones](https://www.rottentomatoes.com/m/giant_little_ones) - *one of my favs so far.. found out afterwards it was also a Canadian movie*
+* [Indian Horse](https://www.rottentomatoes.com/m/indian_horse) - haunting long after the movie is over
 * [Maiden](https://www.rottentomatoes.com/m/maiden)
 
 # 4 Stars
